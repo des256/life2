@@ -22,15 +22,21 @@ chicken, vegetables
 
 objective: properly schedule so they all get addressed
 
+### Active
+
 - Thalamus
-- Recombination DLC
+- Thalamus Synthetic Data
+- Youtube Videos
 - Fractal One
-- Thalamus Video
 - Robot power board
 - Oral stories
 - Written stories
 
-## WEEK 1
+### Pending
+
+- Recombination DLC, waiting for battery
+
+## WEEK 1: sept 21
 
 objective: phone, morning ride, close kitchen
 
