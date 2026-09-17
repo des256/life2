@@ -18,24 +18,6 @@ pokebowl, quark
 
 chicken, vegetables
 
-## BLOCKS
-
-objective: properly schedule so they all get addressed
-
-### Active
-
-- Thalamus
-- Thalamus Synthetic Data
-- Youtube Videos
-- Fractal One
-- Robot power board
-- Oral stories
-- Written stories
-
-### Pending
-
-- Recombination DLC, waiting for battery
-
 ## WEEK 1: sept 21
 
 objective: phone, morning ride, close kitchen
