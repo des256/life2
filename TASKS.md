@@ -1,16 +1,34 @@
 # Tasks
 
-## Active
+## Blocked
 
-- Clean up place
-- Thalamus
-- Thalamus Synthetic Data
-- Youtube Videos
-- Fractal One
-- Robot power board
-- Oral stories
-- Written stories
+- Recombination DLC: waiting for Meta conversation
 
-## Pending
+## Clean up
 
-- Recombination DLC: waiting for battery
+- table
+- kitchen
+- balcony
+- lab
+- bedroom
+- bathroom/restroom
+- laundry
+
+## Thalamus
+
+## Thalamus Model
+
+## Youtube Videos
+
+## Fractal One
+
+## Robot Power Board
+
+## Oral Stories
+
+- fatbike
+- Janet Jackson
+
+## Written Stories
+
+-
