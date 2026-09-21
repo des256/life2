@@ -61,7 +61,19 @@ objective: phone, morning ride, close kitchen
 
 ### Review
 
-monday: chaotic + visit mom
+#### monday 21
+
+block 1: fractal one review and minor planning
+block 2: help mom
+
+really bad sleep
+phone good, little high on the scrolling in block 2
+breakfast good, lunch good, dinner mom
+thinking about media funnels for charlotte
+
+tomorrow: fractal one, look at meeting with Ben and Chris, look at friday talk
+
+#### tuesday 22
 
 ## WEEK 2 (DANGER WEEK!)
 
