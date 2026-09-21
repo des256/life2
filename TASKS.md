@@ -22,7 +22,6 @@
 
 ## Fractal One
 
-- translate/rotate/zoom controls
 - tooltips to describe the parameters
 - forge and server hotswapping (i.e. when forge disappears, automatically reconnect when one shows up again; same for server)
 - tweak material and lighting settings when loading M3Ps to represent more authentically
@@ -36,6 +35,10 @@
   - F3/F4 - zoom in/out
   - F1/F2 - move far plane
   - F - create keyframe
+- fix BRDF path tracing approach properly (proper specular PDF, so reflection and shadow are not needed in this path)
+- shadow and reflection do not exist with path tracing (are automatic)
+- design features and versioning
+- cancel command needs to propagate to forge, really canceling immediately
 
 ### preview area
 
@@ -57,7 +60,14 @@
 
 ### Materials
 
-- tweak Park modes Ozora, Boom, Earth Frequency and Universo Paralello
+- tweak Park modes:
+  - flat = 0 1
+  - linear = 0..1
+  - Ozora = cubic with dy=0 at the ends
+  - Boom = 0 1 0 1
+  - Organik = 0 1..1 0..0 1
+  - Earth Frequency = 0..1 0..1
+  - Universo Paralello = 0 1..0 1
 - implement Ride
 
 ### Lights
@@ -86,6 +96,7 @@
 - review exposure
 - review gamma
 - review bloom and sharpen
+- when switching between BRDF and Path Trace, the corresponding widgets should change too
 
 ### Output
 
@@ -93,6 +104,7 @@
 - implement EXR
 - verify all output formats for each camera type
 - maybe combine camera and output settings or move stereo setup to camera part
+- PNG should not revert to EXR
 
 ### Animation
 
