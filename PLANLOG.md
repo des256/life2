@@ -75,6 +75,17 @@ tomorrow: fractal one, look at meeting with Ben and Chris, look at friday talk
 
 #### tuesday 22
 
+block 1: fractal one
+block 2: fractal one
+
+sleep ok
+phone good
+good: biking, breakfast, lunch, dinner, laundries, cleaned table, restored robot vacuum
+questionable: stayed up late still working
+did not look at meeting and friday talk
+
+tomorrow: fractal one, stijn, meeting, friday talk
+
 ## WEEK 2 (DANGER WEEK!)
 
 objective: journal, todo, reset (living room + kitchen), book, laundry
