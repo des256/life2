@@ -65,6 +65,7 @@
 - cancel command needs to really cancel forge
 - camera reset button
 - clear/new button
+- M3I loader
 - M3L loader, maybe JSON equivalent
 
 ### file format
@@ -85,7 +86,7 @@
 ### Materials
 
 - implement Ride
-- Park: interpolation is rough, it takes only a few samples, should probably sample entire area
+- Park: UI is wonky, main range and zoomed range are not behaving as they should, sampling tries to optimize CSS
 
 ### Lights
 

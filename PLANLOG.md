@@ -86,6 +86,19 @@ did not look at meeting and friday talk
 
 tomorrow: fractal one, stijn, meeting, friday talk
 
+#### wednesday 23
+
+block 1: fractal one + friday talk
+block 2: stijn
+
+sleep good
+phone good, but a little messy in the morning
+no biking today
+good: breakfast, lunch
+questionable:
+
+tomorrow:
+
 ## WEEK 2 (DANGER WEEK!)
 
 objective: journal, todo, reset (living room + kitchen), book, laundry
