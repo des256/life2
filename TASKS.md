@@ -62,7 +62,6 @@
 ### general
 
 - tooltips to describe the parameters
-- forge and server hotswapping
 - cancel command needs to really cancel forge
 - camera reset button
 - clear/new button
@@ -91,6 +90,7 @@
 ### Lights
 
 - shadow toggle should only be available for non-path trace method
+- re-render shadows when moving lights
 
 ### Atmosphere
 
