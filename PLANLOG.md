@@ -94,8 +94,7 @@ block 2: stijn
 sleep good
 phone good, but a little messy in the morning
 no biking today
-good: breakfast, lunch
-questionable:
+good: breakfast, lunch, dinner
 
 tomorrow:
 

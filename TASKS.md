@@ -58,11 +58,11 @@
 - [DONE] separate layers to PNG as well
 - [DONE] implement EXR
 - [DONE] fix palette loading
+- [DONE] tooltips to describe the parameters
+- [DONE] cancel command needs to really cancel forge
 
 ### general
 
-- tooltips to describe the parameters
-- cancel command needs to really cancel forge
 - camera reset button
 - clear/new button
 - M3I loader
