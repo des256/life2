@@ -92,11 +92,12 @@ block 1: fractal one + friday talk
 block 2: stijn
 
 sleep good
-phone good, but a little messy in the morning
+phone average
 no biking today
 good: breakfast, lunch, dinner
+questionable: got groceries late for next day with ice cream
 
-tomorrow:
+tomorrow: fractal one
 
 ## WEEK 2 (DANGER WEEK!)
 
