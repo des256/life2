@@ -99,6 +99,19 @@ questionable: got groceries late for next day with ice cream
 
 tomorrow: fractal one
 
+#### thursday 24
+
+block 1: gaming
+block 2: fractal one
+
+sleep ok, but too chaotic
+phone good
+no biking today (already had groceries)
+good: breakfast, lunch, dinner
+questionable: got ice cream and quark late
+
+tomorrow: fractal one + social
+
 ## WEEK 2 (DANGER WEEK!)
 
 objective: journal, todo, reset (living room + kitchen), book, laundry
