@@ -115,7 +115,6 @@
 ### Animation
 
 - animation settings, interpolation mode
-- animation rendering with forge
 
 ## Robot Power Board
 
