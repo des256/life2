@@ -1,9 +1,5 @@
 # Tasks
 
-## Blocked
-
-- Recombination DLC: waiting for Meta conversation
-
 ## Clean up
 
 - table
@@ -24,7 +20,7 @@
 
 ### to be verified / done
 
-- [DONE] implement MB3D key mappings:
+- implement MB3D key mappings:
   - W/S - forward/backward
   - A/D - left/right strafe
   - E/C - up/down strafe
@@ -33,8 +29,8 @@
   - J/L - left/right tilt
   - F3/F4 - zoom in/out
   - F1/F2 - move far plane
-- [DONE] camera contains z_far control
-- [DONE] tweak Park modes:
+- camera contains z_far control
+- tweak Park modes:
   - flat = 0 1
   - linear = 0..1
   - Ozora = cubic with dy=0 at the ends
@@ -42,24 +38,26 @@
   - Organik = 0 1..1 0..0 1
   - Earth Frequency = 0..1 0..1
   - Universo Paralello = 0 1..0 1
-- [DONE] design.lights: changed type to radiobutton
-- [DONE] design.lights: move color/intensity/shadow to top, so type is editable at the bottom
-- [DONE] design.lights: angle X and Y are now sliders
-- [DONE] explore.formula: dropdown should respond now
-- [DONE] explore: flex now 2:5:3 for bigger formula area
-- [DONE] iteration: julia mode now radiobutton
-- [DONE] iteration: improvement around specifying DE step size/stop/etc. (curious if it's actually an improvement)
-- [DONE] fix path trace: include specular lobe for reflection
-- [DONE] fix: double gamma
-- [DONE] fix: run gamma after tone mapping instead of before
-- [DONE] fix: remove global material, use full material list for tracing
-- [DONE] fix path trace: shadow quirk
-- [DONE] fix path trace: fix refraction
-- [DONE] separate layers to PNG as well
-- [DONE] implement EXR
-- [DONE] fix palette loading
-- [DONE] tooltips to describe the parameters
-- [DONE] cancel command needs to really cancel forge
+- design.lights: changed type to radiobutton
+- design.lights: move color/intensity/shadow to top, so type is editable at the bottom
+- design.lights: angle X and Y are now sliders
+- explore.formula: dropdown should respond now
+- explore: flex now 2:5:3 for bigger formula area
+- iteration: julia mode now radiobutton
+- iteration: improvement around specifying DE step size/stop/etc. (curious if it's actually an improvement)
+- fix path trace: include specular lobe for reflection
+- fix: double gamma
+- fix: run gamma after tone mapping instead of before
+- fix: remove global material, use full material list for tracing
+- fix path trace: shadow quirk
+- fix path trace: fix refraction
+- separate layers to PNG as well
+- implement EXR
+- fix palette loading
+- tooltips to describe the parameters
+- cancel command needs to really cancel forge
+- updated M3P loader to represent material palette slightly better
+- animation page with keyframe editor
 
 ### general
 
@@ -70,7 +68,6 @@
 
 ### file format
 
-- what is "palette_z_offset" for? remove and adjust M3P loader accordingly
 - add versioning
 
 ### preview area
@@ -79,6 +76,7 @@
 
 ### Formula
 
+- refactor formula system with DSL and SIMD JIT compiler
 - add more formulas
 - improve list management
 - parameters by sliders
@@ -116,10 +114,6 @@
 
 ### Animation
 
-- ultra-rough preview to update current keyframe
-- different preview rendering, possibly timeline with each keyframe
-- selectable/draggable keyframes
-- current keyframe is the one that's being edited on the other screens
 - animation settings, interpolation mode
 - animation rendering with forge
 
