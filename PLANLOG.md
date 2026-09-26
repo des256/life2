@@ -112,6 +112,35 @@ questionable: got ice cream and quark late
 
 tomorrow: fractal one + social
 
+#### friday 25
+
+block 1: fractal one
+block 2: movie + gamenight
+
+sleep little short
+phone ok
+no biking today (already had groceries)
+good: breakfast
+questionable: cheese pizza dinner and wine
+
+tomorrow: -
+
+#### saturday 26
+
+block 1: -
+block 2: fractal one
+
+sleep little short
+phone kinda ok
+didn't bike, groceries by car
+good: dinner (soup)
+questionable: breakfast (croissants), lunch (wrap)
+very tired during day
+
+tomorrow: -
+
+#### sunday 27
+
 ## WEEK 2 (DANGER WEEK!)
 
 objective: journal, todo, reset (living room + kitchen), book, laundry
