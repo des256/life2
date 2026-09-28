@@ -133,13 +133,29 @@ block 2: fractal one
 sleep little short
 phone kinda ok
 didn't bike, groceries by car
-good: dinner (soup)
-questionable: breakfast (croissants), lunch (wrap)
+good: breakfast, dinner (soup)
+questionable: lunch (wrap)
 very tired during day
 
 tomorrow: -
 
 #### sunday 27
+
+block 1: fractal one
+block 2: mom
+
+sleep quite good
+phone kinda ok, still watching reels
+didn't bike
+good: breakfast
+questionable: lunch (sandwiches), dinner (chickoree and potato)
+good visit with mom, she converted her bedroom to living alone!
+
+tomorrow: -
+
+#### review
+
+It's not yet working very well. Phone seems to be the easiest to manage. I can work very well without the phone, and putting it away at night is a little confusing, but very possible. What's not working yet is some late night snacking and sleeping regularly. Not sure if I really feel better already, but let's see how next week goes.
 
 ## WEEK 2 (DANGER WEEK!)
 
@@ -188,6 +204,19 @@ objective: journal, todo, reset (living room + kitchen), book, laundry
 ### 23:30
 
 - sleep
+
+#### monday 28
+
+block 1: fractal one
+block 2: fractal one
+
+sleep ok
+phone kinda ok, not there yet
+didn't bike
+good: breakfast, lunch, dinner
+questionable: still working late, waiting for renderings
+
+tomorrow: fractal one
 
 ## WEEK 3
 

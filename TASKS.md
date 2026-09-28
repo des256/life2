@@ -58,25 +58,22 @@
 - cancel command needs to really cancel forge
 - updated M3P loader to represent material palette slightly better
 - animation page with keyframe editor
+- add versioning
+- refactor formula system with DSL and SIMD JIT compiler
+- proper handling of redraw from preview state flags
+- more efficient path tracing with Halton + Cranley-Patterson jitter and Welford updating
+- clear/new button
+- camera reset button
+- fix path trace: dynamic fog now also works there
+- JSON animation format
 
 ### general
 
-- camera reset button
-- clear/new button
 - M3I loader
 - M3L loader, maybe JSON equivalent
 
-### file format
-
-- add versioning
-
-### preview area
-
-- proper handling of redraw from preview state flags
-
 ### Formula
 
-- refactor formula system with DSL and SIMD JIT compiler
 - add more formulas
 - improve list management
 - parameters by sliders
@@ -84,7 +81,9 @@
 ### Materials
 
 - implement Ride
-- Park: UI is wonky, main range and zoomed range are not behaving as they should, sampling tries to optimize CSS
+- Park UI: restore fixed axis (park_histogram should cover full range)
+- Park UI: raise strip resolution to full rendering
+- Park UI: hilight selection
 
 ### Lights
 
@@ -114,7 +113,7 @@
 
 ### Animation
 
-- animation settings, interpolation mode
+- animation settings per keyframe, interpolation mode
 
 ## Robot Power Board
 
