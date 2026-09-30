@@ -218,6 +218,40 @@ questionable: still working late, waiting for renderings
 
 tomorrow: fractal one
 
+#### tuesday 29
+
+block 1: writing
+block 2: fractal one
+
+sleep bad
+phone not disturbing, but not really following the plan either
+didn't bike
+good: breakfast, lunch, dinner
+questionable: late groceries, got ice cream
+
+tomorrow: more writing and fractal one
+
+#### wednesday 30
+
+block 1: writing
+block 2: gaming
+
+sleep kinda ok
+phone still using
+didn't bike
+food at wrong times
+questionable: again late groceries, got ice cream
+
+tomorrow: fractal one
+
+#### thursday 1
+
+#### friday 2
+
+#### saturday 3
+
+#### sunday 4
+
 ## WEEK 3
 
 objective: fitify (short, strength, no interval), food log
