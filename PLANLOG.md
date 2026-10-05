@@ -9,6 +9,7 @@ This is the weekly plan with comments about what's going on.
 - no smoking
 - light exercise, slowly increase -> get stronger/fitter (takes at least 6 weeks)
 - daily journaling to stay on track and understand what's going on
+- no phone in bed
 
 ## Diet
 

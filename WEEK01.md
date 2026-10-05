@@ -17,20 +17,20 @@ objective: rawdog a steady rhythm, learn to keep promises
 
 wake up: 6:20
 fitify: yes
-phone: somewhat
+phone: somewhat ok
 smoking:
 sleep: ok
 slot 1: fractal one
 slot 2: prepare conv with chris, fractal one in background
 slot 3: prepare conv with chris, fractal one in background
-slot 4:
+slot 4: gaming
 medical: shaky muscles after fitify
 mental: see below
 friends:
 work: see below
 coolest: discovering this track from Cattaneo/Sasha set
 frustration: why nobody feels the urge to organize social robotics research
-food: 2304
+food: 2304 (+535 later)
 2x gebakken ei 220 (2x110)
 hamreepjes 149
 tomaat 20
@@ -40,6 +40,7 @@ kwark 535
 gerookte zalm 207
 salade kip bacon 396
 chocolademousse 359
+kwark laat 535
 
 journal:
 
@@ -61,6 +62,10 @@ call with chris ok, something came up: in hypothetically managing Fan, I'm tryin
 
 needed to head out later to grab some calories, because 1940 kcal is not enough for me, also bought food for tomorrow, so tomorrow morning will be a bit lighter
 
+took quark at 21:30 because I was still feeling hungry, might need to get yogurt instead
+
+half asleep on thre couch around 22:00
+
 ## tuesday
 
 wake up:
@@ -69,8 +74,8 @@ phone:
 journal:
 smoking:
 sleep:
-slot 1:
-slot 2:
+slot 1: fractal one
+slot 2: fractal one
 slot 3:
 slot 4:
 medical:
