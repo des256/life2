@@ -2,413 +2,89 @@
 
 This is the weekly plan with comments about what's going on.
 
-## DIET BASELINE
+## Main Objectives
 
-objective: healthy baseline with slight deficit
+- take care of future self -> self love
+- healthy baseline diet with slight deficit -> lose weight naturally (takes at least 4 weeks before increasing)
+- no smoking
+- light exercise, slowly increase -> get stronger/fitter (takes at least 6 weeks)
+- daily journaling to stay on track and understand what's going on
 
-### Breakfast
+## Diet
 
-eggs, ham, tomato, cucumber
+breakfast: eggs + ham + tomato + cucumber (saturday + sunday: croissant)
+lunch: pokebowl + quark
+snack: salmon
+dinner: chicken + vegetables
 
-### Lunch
+## WEEK 1: oct 5
 
-pokebowl, quark
+objective: rawdog a steady rhythm, learn to keep promises
 
-### Dinner
-
-chicken, vegetables
-
-## WEEK 1: sept 21
-
-objective: phone, morning ride, close kitchen
-
-### 7:00
-
-- get up
-- wash
-- brush teeth
-- get dressed
-
-### 8:00
-
-- ride to shop
-- get groceries
-
-### 8:30
-
-- breakfast
-- phone start
-- block 1
-
-### 12:00
-
-- lunch
-- block 2
-
-### 18:00
-
-- dinner
-- close kitchen
-- sunday: review + block 3
-
-### 22:00
-
-- phone end
-
-### 23:45
-
-- sleep
+ 7:00  wake up + fitify + wash + teeth
+ 8:00  groceries with bike (car when raining)
+ 9:00  start phone, breakfast, slot 1
+12:00  lunch, slot 2
+15:00  snack, slot 3 or clean
+17:00  calls
+18:00  dinner + log food, slot 4
+22:00  stop phone
+23:00  wind down + journal + prepare for tomorrow
+ 0:00  sleep
 
 ### Review
 
-#### monday 21
+V = did correct, on time, etc.
+X = did not
 
-block 1: fractal one review and minor planning
-block 2: help mom
+          5.10   6.10   7.10   8.10   9.10  10.10  11.10  12.10
+wake up
+fitify
+phone
+bike
+journal
+smoking
+sleep
 
-really bad sleep
-phone good, little high on the scrolling in block 2
-breakfast good, lunch good, dinner mom
-thinking about media funnels for charlotte
+#### Notes
 
-tomorrow: fractal one, look at meeting with Ben and Chris, look at friday talk
+medical:
+mental:
+friends:
+work:
+coolest thing that happened:
 
-#### tuesday 22
 
-block 1: fractal one
-block 2: fractal one
+## WEEK 2 (DANGER WEEK!): oct 12
 
-sleep ok
-phone good
-good: biking, breakfast, lunch, dinner, laundries, cleaned table, restored robot vacuum
-questionable: stayed up late still working
-did not look at meeting and friday talk
+objective: + food log + home reset
 
-tomorrow: fractal one, stijn, meeting, friday talk
+## WEEK 3: oct 19
 
-#### wednesday 23
+objective: + biweekly weigh in + cleaning zones - log food
 
-block 1: fractal one + friday talk
-block 2: stijn
+monday: bathroom + toilet
+tuesday: surfaces/dusting
+wednesday: bedroom + wardrobe
+thursday: living room + kitchen
+friday: lab
 
-sleep good
-phone average
-no biking today
-good: breakfast, lunch, dinner
-questionable: got groceries late for next day with ice cream
+## WEEK 4: oct 26
 
-tomorrow: fractal one
+objective: double down week, enforce it
 
-#### thursday 24
+## WEEK 5: nov 2 
 
-block 1: gaming
-block 2: fractal one
+objective: + daily walk
 
-sleep ok, but too chaotic
-phone good
-no biking today (already had groceries)
-good: breakfast, lunch, dinner
-questionable: got ice cream and quark late
+## WEEK 6: nov 9
 
-tomorrow: fractal one + social
+objective:
 
-#### friday 25
+## WEEK 7: nov 16
 
-block 1: fractal one
-block 2: movie + gamenight
+objective:
 
-sleep little short
-phone ok
-no biking today (already had groceries)
-good: breakfast
-questionable: cheese pizza dinner and wine
+## WEEK 8: nov 23
 
-tomorrow: -
-
-#### saturday 26
-
-block 1: -
-block 2: fractal one
-
-sleep little short
-phone kinda ok
-didn't bike, groceries by car
-good: breakfast, dinner (soup)
-questionable: lunch (wrap)
-very tired during day
-
-tomorrow: -
-
-#### sunday 27
-
-block 1: fractal one
-block 2: mom
-
-sleep quite good
-phone kinda ok, still watching reels
-didn't bike
-good: breakfast
-questionable: lunch (sandwiches), dinner (chickoree and potato)
-good visit with mom, she converted her bedroom to living alone!
-
-tomorrow: -
-
-#### review
-
-It's not yet working very well. Phone seems to be the easiest to manage. I can work very well without the phone, and putting it away at night is a little confusing, but very possible. What's not working yet is some late night snacking and sleeping regularly. Not sure if I really feel better already, but let's see how next week goes.
-
-## WEEK 2 (DANGER WEEK!)
-
-objective: journal, todo, reset (living room + kitchen), book, laundry
-
-### 7:00
-
-- get up
-- wash
-- brush teeth
-- sunday: weigh in
-- get dressed
-
-### 8:00
-
-- ride to shop
-- get groceries
-
-### 8:30
-
-- breakfast
-- phone start
-- saturday: laundry
-- block 1
-
-### 12:00
-
-- lunch
-- block 2
-
-### 18:00
-
-- dinner
-- close kitchen
-- sunday: review
-- block 3
-
-### 22:00
-
-- phone end
-- journal
-- reset
-- todo
-- book
-
-### 23:30
-
-- sleep
-
-#### monday 28
-
-block 1: fractal one
-block 2: fractal one
-
-sleep ok
-phone kinda ok, not there yet
-didn't bike
-good: breakfast, lunch, dinner
-questionable: still working late, waiting for renderings
-
-tomorrow: fractal one
-
-#### tuesday 29
-
-block 1: writing
-block 2: fractal one
-
-sleep bad
-phone not disturbing, but not really following the plan either
-didn't bike
-good: breakfast, lunch, dinner
-questionable: late groceries, got ice cream
-
-tomorrow: more writing and fractal one
-
-#### wednesday 30
-
-block 1: writing
-block 2: gaming
-
-sleep kinda ok
-phone still using
-didn't bike
-food at wrong times
-questionable: again late groceries, got ice cream
-
-tomorrow: fractal one
-
-#### thursday 1
-
-#### friday 2
-
-#### saturday 3
-
-#### sunday 4
-
-## WEEK 3
-
-objective: fitify (short, strength, no interval), food log
-
-### 7:00
-
-- get up
-- wash
-- brush teeth
-- get dressed
-
-### 8:00
-
-- ride to shop
-- get groceries
-
-### 8:30
-
-- breakfast
-- phone start
-- saturday: laundry
-- tuesday: fitify
-- friday: fitify
-- block 1
-
-### 12:00
-
-- lunch
-- block 2
-
-### 18:00
-
-- dinner
-- close kitchen
-- log food
-- sunday: review
-- block 3
-
-### 22:00
-
-- phone end
-- journal
-- todo
-- reset
-- book
-
-### 23:15
-
-- sleep
-
-## WEEK 4
-
-objective: cleaning zones
-
-### 7:00
-
-- get up
-- wash
-- brush teeth
-- sunday: weigh in
-- get dressed
-
-### 8:00
-
-- ride to shop
-- get groceries
-
-### 8:30
-
-- breakfast
-- phone start
-- monday: bathroom/toilet
-- tuesday: fitify
-- wednesday: surfaces/dusting
-- thursday: bedroom/wardrobe
-- friday: fitify
-- saturday: laundry
-- block 1
-
-### 12:00
-
-- lunch
-- block 2
-
-### 18:00
-
-- dinner
-- close kitchen
-- log food
-- sunday: review
-- block 3
-
-### 22:00
-
-- phone end
-- journal
-- reset
-- todo
-- book
-
-### 23:00
-
-- sleep
-
-## WEEK 5
-
-objective: weekend ride, food deficit
-
-### 7:00
-
-- get up
-- wash
-- brush teeth
-- get dressed
-
-### 8:00
-
-- ride to shop
-- get groceries
-
-### 8:30
-
-- breakfast
-- phone start
-- monday: bathroom/toilet
-- tuesday: fitify
-- wednesday: surfaces/dusting
-- thursday: bedroom/wardrobe
-- friday: fitify
-- saturday: laundry
-- block 1
-
-### 12:00
-
-- lunch
-- block 2
-
-### 18:00
-
-- dinner
-- close kitchen
-- log food
-- sunday: review
-- block 3
-
-### 22:00
-
-- phone end
-- journal
-- reset
-- todo
-- book
-
-### 23:00
-
-- sleep
-
-## WEEK 6
-
-objective: walking
+objective: review exercises, maybe try something more substantial
