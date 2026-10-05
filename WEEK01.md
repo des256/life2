@@ -2,16 +2,16 @@
 
 objective: rawdog a steady rhythm, learn to keep promises
 
- 7:00  wake up, fitify (phone only for that), wash, teeth
- 8:00  groceries with car
- 9:00  start phone, breakfast, slot 1
-12:00  lunch, slot 2
-15:00  snack, slot 3
-17:00  calls
-18:00  dinner, log food, slot 4
-22:00  stop phone
-23:00  wind down, journal, prepare for tomorrow
- 0:00  sleep
+7:00 wake up, fitify (phone only for that), wash, teeth
+8:00 groceries with car
+9:00 start phone, breakfast, slot 1
+12:00 lunch, slot 2
+15:00 snack, slot 3
+17:00 calls
+18:00 dinner, log food, slot 4
+22:00 stop phone
+23:00 wind down, journal, prepare for tomorrow
+0:00 sleep
 
 ## monday
 
@@ -19,26 +19,47 @@ wake up: 6:20
 fitify: yes
 phone: somewhat
 smoking:
-sleep:
-slot 1:
-slot 2:
-slot 3:
+sleep: ok
+slot 1: fractal one
+slot 2: prepare conv with chris, fractal one in background
+slot 3: prepare conv with chris, fractal one in background
 slot 4:
-medical:
-mental:
+medical: shaky muscles after fitify
+mental: see below
 friends:
-work:
-coolest:
-frustration:
-food:
+work: see below
+coolest: discovering this track from Cattaneo/Sasha set
+frustration: why nobody feels the urge to organize social robotics research
+food: 2304
+2x gebakken ei 220 (2x110)
+hamreepjes 149
+tomaat 20
+komkommer 10
+pokebowl zalm 408 (3x136)
+kwark 535
+gerookte zalm 207
+salade kip bacon 396
+chocolademousse 359
+
 journal:
 
-fitify takes a bit of a toll, so biking right after felt unsafe, carrying boxes already felt a bit unsafe
+fitify takes a bit of a toll, so biking right after felt unsafe, carrying boxes already felt a bit unsafe, retry biking next week
+
 didn't do all fitify floor exercises
-groceries was done by 8:24, allowed for journeying here and 
+
+groceries was done by 8:24, allowed for journeying here and
+
 need phone for fitify
+
 got rid of boxes
+
 started dishwasher
+
+very energetic around lunch time, probably due to coffee
+
+call with chris ok, something came up: in hypothetically managing Fan, I'm trying to put myself forward as the owner of social robotics in Mind Children, and I seem to think that this is not clear, and somehow that bothers me. If I ask myself honestly why this is, I think maybe I need people to believe it so they automatically send everything about social robotics in my direction, but I'm afraid they don't do this, because they don't care or for personal reasons, and then I lose the topic again. I seem to be invested in this. I don't want to be forced to work for some other side project, especially not because I have a clear hunch that this can become really important for us. Maybe I'm disappointed about people not seeing this too, or not believing me. Let's keep this text here and read it later to see if I can understand what's going on. One thing probably is that this needs clearer communication from my side.
+
+needed to head out later to grab some calories, because 1940 kcal is not enough for me, also bought food for tomorrow, so tomorrow morning will be a bit lighter
 
 ## tuesday
 

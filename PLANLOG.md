@@ -16,3 +16,5 @@ breakfast: eggs + ham + tomato + cucumber (saturday + sunday: croissant)
 lunch: pokebowl + quark
 snack: salmon
 dinner: chicken + vegetables
+
+assuming BMR = 2600 kcal, don't get under 2300 for now, we can starve more later
