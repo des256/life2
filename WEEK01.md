@@ -69,9 +69,8 @@ half asleep on thre couch around 22:00
 ## tuesday
 
 wake up: 8:02
-fitify:
-phone:
-journal:
+fitify: ok, didn't do all ground exercises, gotta take care of any pains or deterioration, but it seems good so far
+phone: ok, but started too early
 smoking:
 sleep:
 slot 1: fractal one
@@ -79,12 +78,22 @@ slot 2: fractal one
 slot 3: go to jaagweg, notaris zaandam
 slot 4:
 medical:
-mental:
+mental: some clarity about trying to get permission, fear of confrontation I guess
 friends:
 work:
 coolest:
 frustration:
 food:
+
+gerookte zalm 207
+pokebowl kip 568 (4x142)
+magnum 231
+magnum 231
+stukjes worst 268
+
+journal:
+
+(merge from other branch)
 
 ## wednesday
 
