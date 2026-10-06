@@ -90,6 +90,8 @@ pokebowl kip 568 (4x142)
 magnum 231
 magnum 231
 stukjes worst 268
+stukjes kaas 193
+erwtensoep 
 
 journal:
 
