@@ -18,7 +18,7 @@ objective: rawdog a steady rhythm, learn to keep promises
 wake up: 6:20
 fitify: yes
 phone: somewhat ok
-smoking:
+smoking: didn't
 sleep: ok
 slot 1: fractal one
 slot 2: prepare conv with chris, fractal one in background
@@ -68,7 +68,7 @@ half asleep on thre couch around 22:00
 
 ## tuesday
 
-wake up:
+wake up: 8:02
 fitify:
 phone:
 journal:
@@ -76,7 +76,7 @@ smoking:
 sleep:
 slot 1: fractal one
 slot 2: fractal one
-slot 3:
+slot 3: go to jaagweg, notaris zaandam
 slot 4:
 medical:
 mental:
