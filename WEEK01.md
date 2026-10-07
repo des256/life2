@@ -134,6 +134,13 @@ melona 125
 pokebowl zalm 408 (3x136)
 kwark 535
 melona 125
+melona 125
+melona 125
+melona 125
+melona 125
+melona 125
+melona 125
+gerookte zalm 207
 
 journal:
 
