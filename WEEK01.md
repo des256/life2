@@ -72,7 +72,7 @@ wake up: 8:02
 fitify: ok, didn't do all ground exercises, gotta take care of any pains or deterioration, but it seems good so far
 phone: ok, but started too early
 smoking:
-sleep:
+sleep: ok
 slot 1: fractal one
 slot 2: fractal one
 slot 3: go to jaagweg, notaris zaandam
@@ -84,6 +84,16 @@ work:
 coolest:
 frustration:
 food:
+gerookte zalm 207
+pokebowl kip 568 (4x142)
+
+journal:
+
+Thinking more about yesterday. For some reason I need Chris to believe that I'm running that project. I'm noticing a mental mistake here. I should instead just run the project, and only address this issue when Chris complains. If I look at both situations: 1. Chris believes I'm running social robotics, permission to run social robotics. vs. 2. Chris doesn't care, I run social robotics, if something fails Chris will mention. - Nr. 2 feels a lot more chaotic and scary. The fear might be about debating Chris. Ok, that is interesting. So the solution would be just run the project, take on Fan, and debate Chris where necessary. - What does this say about whether or not we need Ben's permission? Maybe that's a similar problem... Let's think about that later.
+
+about fitify, it went ok, less shaky, I didn't do all floor exercises properly; I'm a little worried about getting active too quickly, so I need to check each time if anything weird hurts. So far, nothing special.
+
+after some chatting with Claude, this is what's going on: Robots are husks because nobody is punished for it, not because nobody can fix it. I know how to fix it. I don't need anyone to agree with that. I need to build it in a form that improves something they already measure, and keep the people around me informed rather than asking them for permission.
 
 gerookte zalm 207
 pokebowl kip 568 (4x142)
@@ -91,7 +101,7 @@ magnum 231
 magnum 231
 stukjes worst 268
 stukjes kaas 193
-erwtensoep 
+erwtensoep
 
 journal:
 
@@ -105,8 +115,8 @@ phone:
 journal:
 smoking:
 sleep:
-slot 1:
-slot 2:
+slot 1: museum
+slot 2: maybe visit Stijn
 slot 3:
 slot 4:
 medical:
