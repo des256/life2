@@ -111,13 +111,12 @@ got thomson carter, don't use too much of that stuff
 ## wednesday
 
 wake up: 7:00
-fitify:
-phone:
-journal:
+fitify: not enough time, and a little painful, skipping today
+phone: started immediately
 smoking:
-sleep:
+sleep: a little short
 slot 1: museum
-slot 2: maybe visit Stijn
+slot 2: museum
 slot 3:
 slot 4:
 medical:
@@ -127,6 +126,16 @@ work:
 coolest:
 frustration:
 food:
+2x gebakken ei 220 (2x110)
+hamreepjes 149
+tomaat 20
+komkommer 10
+melona 125
+pokebowl zalm 408 (3x136)
+
+journal:
+
+museum was very interesting, realize that I need to steer thalamus into a useful path
 
 ## thursday
 
