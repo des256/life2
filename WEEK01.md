@@ -110,11 +110,11 @@ got thomson carter, don't use too much of that stuff
 
 ## wednesday
 
-wake up: 7:00
-fitify: not enough time, and a little painful, skipping today
-phone: started immediately
-smoking:
-sleep: a little short
+wake up: 7:00 from alarm, is ok
+fitify: window not big enough because need to be at shop at exactly 8:00
+phone: started too early, claim to need it for shopping
+smoking: yes
+sleep: kinda ok, I feel rested, but it was a little short
 slot 1: museum
 slot 2: museum
 slot 3: writing
@@ -154,12 +154,19 @@ slept for a bit, probably didn't sleep enough last night
 
 tried to support Yues ideas for further development, seems to have worked
 
+did grab a pack of cigarettes, the full load seems to be heavy, let's review end of the week
+
+heavy on the food, melona has to go
+
+went to sleep late
+
+tomorrow: plot out thalamus near goals and fix remaining fractal one points
+
 ## thursday
 
 wake up:
 fitify:
 phone:
-journal:
 smoking:
 sleep:
 slot 1:
@@ -173,13 +180,13 @@ work:
 coolest:
 frustration:
 food:
+journal:
 
 ## friday
 
 wake up:
 fitify:
 phone:
-journal:
 smoking:
 sleep:
 slot 1:
@@ -193,13 +200,13 @@ work:
 coolest:
 frustration:
 food:
+journal:
 
 ## saturday
 
 wake up:
 fitify:
 phone:
-journal:
 smoking:
 sleep:
 slot 1:
@@ -213,13 +220,13 @@ work:
 coolest:
 frustration:
 food:
+journal:
 
 ## sunday
 
 wake up:
 fitify:
 phone:
-journal:
 smoking:
 sleep:
 slot 1:
@@ -233,3 +240,4 @@ work:
 coolest:
 frustration:
 food:
+journal:
