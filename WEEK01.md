@@ -117,15 +117,15 @@ smoking:
 sleep: a little short
 slot 1: museum
 slot 2: museum
-slot 3:
-slot 4:
-medical:
-mental:
+slot 3: writing
+slot 4: writing
+medical: tiny pains around starting exercise
+mental: ok
 friends:
 work:
 coolest:
 frustration:
-food:
+food: 2957
 2x gebakken ei 220 (2x110)
 hamreepjes 149
 tomaat 20
@@ -141,10 +141,18 @@ melona 125
 melona 125
 melona 125
 gerookte zalm 207
+kipblokjes 333 (3x111)
+wokgroente 75
 
 journal:
 
 museum was very interesting, realize that I need to steer thalamus into a useful path
+
+didn't do much more useful today, rumination about the future
+
+slept for a bit, probably didn't sleep enough last night
+
+tried to support Yues ideas for further development, seems to have worked
 
 ## thursday
 
