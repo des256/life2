@@ -71,7 +71,7 @@ half asleep on thre couch around 22:00
 wake up: 8:02
 fitify: ok, didn't do all ground exercises, gotta take care of any pains or deterioration, but it seems good so far
 phone: ok, but started too early
-smoking:
+smoking: joint
 sleep: ok
 slot 1: fractal one
 slot 2: fractal one
@@ -83,9 +83,18 @@ friends:
 work:
 coolest:
 frustration:
-food:
+food: 2940
+
 gerookte zalm 207
 pokebowl kip 568 (4x142)
+magnum 231
+magnum 231
+stukjes worst 268
+stukjes kaas 193
+erwtensoep 150
+knakworstjes 630
+magnum 231
+magnum 231
 
 journal:
 
@@ -95,21 +104,13 @@ about fitify, it went ok, less shaky, I didn't do all floor exercises properly; 
 
 after some chatting with Claude, this is what's going on: Robots are husks because nobody is punished for it, not because nobody can fix it. I know how to fix it. I don't need anyone to agree with that. I need to build it in a form that improves something they already measure, and keep the people around me informed rather than asking them for permission.
 
-gerookte zalm 207
-pokebowl kip 568 (4x142)
-magnum 231
-magnum 231
-stukjes worst 268
-stukjes kaas 193
-erwtensoep
+helped mom with the notary
 
-journal:
-
-(merge from other branch)
+got thomson carter, don't use too much of that stuff
 
 ## wednesday
 
-wake up:
+wake up: 7:00
 fitify:
 phone:
 journal:
