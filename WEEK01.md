@@ -132,6 +132,8 @@ tomaat 20
 komkommer 10
 melona 125
 pokebowl zalm 408 (3x136)
+kwark 535
+melona 125
 
 journal:
 
