@@ -164,23 +164,53 @@ tomorrow: plot out thalamus near goals and fix remaining fractal one points
 
 ## thursday
 
-wake up:
-fitify:
-phone:
-smoking:
-sleep:
-slot 1:
-slot 2:
-slot 3:
-slot 4:
-medical:
+wake up: 6:20
+fitify: yes, without ground exercises, still feels too brittle and painful
+phone: meh, went to sleep with it
+smoking: yes
+sleep: ok, but too short, expecting midday sleeping
+slot 1: kicad + fractal one
+slot 2: kicad + fractal one
+slot 3: car repair
+slot 4: jaagweg
+medical: getting used to exercises, mostly hips and feet
 mental:
 friends:
-work:
+work: I'll be able to do kicad
 coolest:
-frustration:
-food:
+frustration: 
+food: 3144
+2x gebakken ei 220 (2x110)
+hamreepjes 149
+tomaat 20
+komkommer 10
+hydro 66
+hydro 66
+hydro 66
+hydro 66
+pokebowl zalm 408 (3x136)
+kwark 535
+gerookte zalm 207
+merci 75
+merci 75
+stukjes kaas 100
+stukjes worst 150
+pasta met gehakt 700
+magnum 231
+
 journal:
+
+the morning rhythm, even though quite the hour, feels doable
+
+I keep thinking of this aikido seminar in may, probably unrealistic to expect to fit back in the dogi by then, but it's haunting me and I guess that's good
+
+decided to watch Another Life again, but this time paying attention
+
+the new coffee machine is a hilight
+
+had AI create hw design for the powerboard, this is not working correctly
+
+car light issue turned out to be really simple, Groot was able to fix it right there in a few minutes
 
 ## friday
 
