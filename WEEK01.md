@@ -254,21 +254,29 @@ still too much food, so let's see next week if we can reduce that more effective
 
 wake up: 9:20
 fitify: no
-phone:
+phone: meh
 smoking: yes
-sleep:
-slot 1:
-slot 2:
-slot 3:
-slot 4:
+sleep: ok
+slot 1: kicad
+slot 2: kicad
+slot 3: kicad
+slot 4: -
 medical:
 mental:
 friends:
 work:
 coolest:
 frustration:
-food:
-crossant
+food: 2295
+croissant 295
+hydro 264 (4x66)
+pokebowl zalm 408
+kwark 535
+gerookte zalm 207
+kipblokjes 333 (3x111)
+wokgroente 75
+yoghurt 178
+
 journal:
 
 ## sunday
