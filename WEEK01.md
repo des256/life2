@@ -178,7 +178,7 @@ mental:
 friends:
 work: I'll be able to do kicad
 coolest:
-frustration: 
+frustration:
 food: 3144
 2x gebakken ei 220 (2x110)
 hamreepjes 149
@@ -214,30 +214,48 @@ car light issue turned out to be really simple, Groot was able to fix it right t
 
 ## friday
 
-wake up:
-fitify:
-phone:
-smoking:
-sleep:
-slot 1:
-slot 2:
-slot 3:
-slot 4:
-medical:
+wake up: 9:00
+fitify: yes
+phone: still meh
+smoking: yes
+sleep: was ok
+slot 1: kicad
+slot 2: kicad
+slot 3: kicad
+slot 4: game night
+medical: no issues
 mental:
 friends:
 work:
-coolest:
+coolest: kicad is definitely learnable
 frustration:
-food:
+food: 2697
+kaas 563 (1.6x352)
+4x hydro 264 (4x66)
+pokebowl zalm 408
+kwark 535
+kipblokjes 333 (3x111)
+wokgroente 75
+chips 519
+
 journal:
+exercise getting more serious
+did look up to starting
+focus on present helped a lot
+experienced that hopeful feeling when it's almost over
+not yet able to do all exercises properly
+standing up/sitting down to floor is getting better
+need mat to do ground exercises
+decided to visit gamenight where it was just rik and me, was nice to meet him despite the bragging
+grabbed a brownie afterwards, gotta keep track of how that goes
+still too much food, so let's see next week if we can reduce that more effectively
 
 ## saturday
 
-wake up:
-fitify:
+wake up: 9:20
+fitify: no
 phone:
-smoking:
+smoking: yes
 sleep:
 slot 1:
 slot 2:
@@ -250,6 +268,7 @@ work:
 coolest:
 frustration:
 food:
+crossant
 journal:
 
 ## sunday
