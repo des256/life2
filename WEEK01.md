@@ -303,5 +303,6 @@ croissant 295
 kwark 535
 hydro 264 (4x66)
 kaas 470
+pokebowl zalm 408
 
 journal:
