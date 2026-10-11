@@ -279,15 +279,17 @@ yoghurt 178
 
 journal:
 
+generally tired, did some kicad
+
 ## sunday
 
-wake up:
-fitify:
-phone:
-smoking:
-sleep:
-slot 1:
-slot 2:
+wake up: 9:20
+fitify: no
+phone: meh
+smoking: yes
+sleep: ok, but not according to the watch
+slot 1: tv
+slot 2: tv
 slot 3:
 slot 4:
 medical:
@@ -297,4 +299,9 @@ work:
 coolest:
 frustration:
 food:
+croissant 295
+kwark 535
+hydro 264 (4x66)
+kaas 470
+
 journal:
