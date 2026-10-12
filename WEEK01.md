@@ -288,8 +288,8 @@ fitify: no
 phone: meh
 smoking: yes
 sleep: ok, but not according to the watch
-slot 1: tv
-slot 2: tv
+slot 1:
+slot 2: kicad
 slot 3:
 slot 4:
 medical:
@@ -298,11 +298,20 @@ friends:
 work:
 coolest:
 frustration:
-food:
+food: 3476
 croissant 295
 kwark 535
 hydro 264 (4x66)
 kaas 470
 pokebowl zalm 408
+yoghurt 178
+tomaten cremesoep 340
+knakworsten 630
+yoghurt 178
+yoghurt 178
 
 journal:
+
+rather salmon instead of cheese
+shouldn't have added the knakworsten
+yoghurt kinda heavy, only for balancing
