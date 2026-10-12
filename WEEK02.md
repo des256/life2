@@ -1,28 +1,26 @@
 # WEEK 2: oct 12
 
-objective: + groceries by bike
+objective: double down week
 
- 7:00  wake up, fitify (phone only for that), wash, teeth
- 8:00  groceries with bike (car when raining)
- 9:00  start phone, breakfast, slot 1
-12:00  lunch, slot 2
-15:00  snack, slot 3
-17:00  calls
-18:00  dinner, log food, slot 4
-22:00  stop phone
-23:00  wind down, journal, prepare for tomorrow
- 0:00  sleep
+7:00 wake up, fitify (phone only for that), wash, teeth
+8:00 groceries with bike (car when raining)
+9:00 start phone, breakfast, slot 1
+12:00 lunch, slot 2
+15:00 snack, slot 3
+17:00 calls
+18:00 dinner, log food, slot 4
+22:00 stop phone
+23:00 wind down, journal, prepare for tomorrow
+0:00 sleep
 
 ## monday
 
-wake up:
-fitify:
-phone:
-bike:
-journal:
-smoking:
-sleep:
-slot 1:
+wake up: 7:00
+fitify: yes
+phone: started around 9
+smoking: yes
+sleep: ok, but watch thought I was awake mostly
+slot 1: kicad
 slot 2:
 slot 3:
 slot 4:
@@ -33,6 +31,13 @@ work:
 coolest:
 frustration:
 food:
+journal:
+
+kinda rough starting fitify, but did it in the end
+carpet very nice for floor exercises, maybe get a yoga mat
+getting to the floor and back up going a lot better than last week
+might want to do more exercises, organize the fitify programs a bit
+date with Ibby tonight, not sure where that is going, but she seems enthousiastic
 
 ## tuesday
 

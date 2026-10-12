@@ -315,3 +315,5 @@ journal:
 rather salmon instead of cheese
 shouldn't have added the knakworsten
 yoghurt kinda heavy, only for balancing
+
+next week: keep things the same, do the things more strictly
