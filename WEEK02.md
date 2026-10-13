@@ -59,8 +59,8 @@ phone: meh, went to sleep with it
 smoking: yes
 sleep: was ok
 slot 1: kicad
-slot 2:
-slot 3:
+slot 2: kicad
+slot 3: kicad
 slot 4:
 medical:
 mental:
@@ -68,12 +68,27 @@ friends:
 work:
 coolest:
 frustration:
-food:
+food: 1955
+2x gebakken ei 220 (2x110)
+hamreepjes 149
+tomaat 20
+komkommer 10
+pokebowl kip protein 613
+kwark 535
+kipblokjes 333 (3x111)
+wokgroente 75
+
 journal:
 
 told Rik I looked at the OpenAI math stuff, and of course I got a giant infodump on how incredibly great he thinks he is... Let's say I tried...
 
 hung out with Ibby yesterday, but it was mostly gossiping about snet; she's ok, a little young and weirdly ambitious, interesting how she seems to be a very moderate muslim
+
+long chat with Chris about the future and how things go, it's all depending on Ben too much, but we'll see what happens, gotta prepare a very short presentation about Thalamus and what I want to accomplish, also think about Fan's role, and what we want from SNET
+
+al in all a pretty meek day, kinda down
+
+tomorrow: more kicad
 
 ## wednesday
 
