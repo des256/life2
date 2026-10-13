@@ -53,14 +53,12 @@ was a lot of business talk and gossip about singularitynet, verdict now: good co
 
 ## tuesday
 
-wake up:
-fitify:
-phone:
-bike:
-journal:
-smoking:
-sleep:
-slot 1:
+wake up: 7:00
+fitify: no, I felt drained and my back was hurting
+phone: meh, went to sleep with it
+smoking: yes
+sleep: was ok
+slot 1: kicad
 slot 2:
 slot 3:
 slot 4:
@@ -71,6 +69,11 @@ work:
 coolest:
 frustration:
 food:
+journal:
+
+told Rik I looked at the OpenAI math stuff, and of course I got a giant infodump on how incredibly great he thinks he is... Let's say I tried...
+
+hung out with Ibby yesterday, but it was mostly gossiping about snet; she's ok, a little young and weirdly ambitious, interesting how she seems to be a very moderate muslim
 
 ## wednesday
 
