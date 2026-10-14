@@ -107,13 +107,14 @@ friends:
 work:
 coolest:
 frustration:
-food:
+food: 2116
 kwark 535
 pokebowl zalm 570
 yoghurt 178
-gevulde koek
+gevulde koek 247
 kipblokjes 333 (3x111)
 wokgroente 75
+yoghurt 178
 
 journal:
 
@@ -121,7 +122,13 @@ fitify + back is not currently a good combination, I'm going to figure out some 
 
 nice meeting at stijn, going to visit some ADE stuff next week with them
 
-good call with yue about the electronics
+good call with yue about the electronics, we're going to try and build some PCBs, first schematic of new robot
+
+lots of kicad today, satisfying to crawl through the components, but it's a lot of work and might not work due to high currents
+
+bought tickets for ADE stuff next week
+
+tomorrow: kicad
 
 ## thursday
 
