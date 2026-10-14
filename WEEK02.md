@@ -98,7 +98,7 @@ phone: meh
 smoking: yes
 sleep: pretty good
 slot 1: kicad
-slot 2:
+slot 2: stijn/kicad
 slot 3:
 slot 4:
 medical:
@@ -109,6 +109,8 @@ coolest:
 frustration:
 food:
 kwark 535
+pokebowl zalm 570
+yoghurt 178
 
 journal:
 
