@@ -92,14 +92,12 @@ tomorrow: more kicad
 
 ## wednesday
 
-wake up:
-fitify:
-phone:
-bike:
-journal:
-smoking:
-sleep:
-slot 1:
+wake up: 6:40
+fitify: no, backpain
+phone: meh
+smoking: yes
+sleep: pretty good
+slot 1: kicad
 slot 2:
 slot 3:
 slot 4:
@@ -110,6 +108,11 @@ work:
 coolest:
 frustration:
 food:
+kwark 535
+
+journal:
+
+fitify + back is not currently a good combination, I'm going to figure out some sort of warming up routine before fitify
 
 ## thursday
 
