@@ -111,10 +111,17 @@ food:
 kwark 535
 pokebowl zalm 570
 yoghurt 178
+gevulde koek
+kipblokjes 333 (3x111)
+wokgroente 75
 
 journal:
 
 fitify + back is not currently a good combination, I'm going to figure out some sort of warming up routine before fitify
+
+nice meeting at stijn, going to visit some ADE stuff next week with them
+
+good call with yue about the electronics
 
 ## thursday
 
