@@ -132,35 +132,41 @@ tomorrow: kicad
 
 ## thursday
 
-wake up:
-fitify:
-phone:
-bike:
-journal:
-smoking:
-sleep:
-slot 1:
-slot 2:
-slot 3:
-slot 4:
+wake up: 3:15 insomnia, slept a little between 6 and 9 after that
+fitify: no
+phone: meh
+smoking: yes
+sleep: bad
+slot 1: kicad
+slot 2: kicad
+slot 3: kicad
+slot 4: kicad
 medical:
 mental:
 friends:
 work:
 coolest:
 frustration:
-food:
+food: 1655
+3x yoghurt 390 (3x130)
+kwark 535
+maaltijdsalade kip caesar 470
+2x yoghurt 260 (2x130)
+
+journal:
+
+that was a bad night, so the day is a bit lost, kicad should still be possible
+
+that's not enough food, I'll have to make sure to get more tomorrow
 
 ## friday
 
-wake up:
-fitify:
-phone:
-bike:
-journal:
-smoking:
-sleep:
-slot 1:
+wake up: 5:35
+fitify: no
+phone: meh
+smoking: yes
+sleep: not so good
+slot 1: kicad
 slot 2:
 slot 3:
 slot 4:
@@ -171,6 +177,12 @@ work:
 coolest:
 frustration:
 food:
+almhof roomyoghurt 735
+gerookte zalm 207
+pokebowl zalm 408
+yoghurt 130
+
+journal:
 
 ## saturday
 
