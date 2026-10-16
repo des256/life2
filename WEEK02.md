@@ -99,8 +99,8 @@ smoking: yes
 sleep: pretty good
 slot 1: kicad
 slot 2: stijn/kicad
-slot 3:
-slot 4:
+slot 3: kicad
+slot 4: kicad
 medical:
 mental:
 friends:
@@ -167,9 +167,9 @@ phone: meh
 smoking: yes
 sleep: not so good
 slot 1: kicad
-slot 2:
-slot 3:
-slot 4:
+slot 2: ma
+slot 3: ma
+slot 4: ma
 medical:
 mental:
 friends:
@@ -181,8 +181,18 @@ almhof roomyoghurt 735
 gerookte zalm 207
 pokebowl zalm 408
 yoghurt 130
+magnum
+toast met worst
+2x merci
+blokjes kaas
 
 journal:
+
+shitty morning, too early
+
+started over in kicad as learning process, better design of power distribution
+
+lots of talking with mom, she's doing well
 
 ## saturday
 
