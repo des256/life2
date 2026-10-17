@@ -23,7 +23,7 @@ sleep: ok, but watch thought I was awake mostly
 slot 1: kicad
 slot 2: kicad
 slot 3: kicad
-slot 4:
+slot 4: -
 medical:
 mental:
 friends:
@@ -61,7 +61,7 @@ sleep: was ok
 slot 1: kicad
 slot 2: kicad
 slot 3: kicad
-slot 4:
+slot 4: -
 medical:
 mental:
 friends:
@@ -176,15 +176,19 @@ friends:
 work:
 coolest:
 frustration:
-food:
+food: 2732
 almhof roomyoghurt 735
 gerookte zalm 207
 pokebowl zalm 408
 yoghurt 130
-magnum
-toast met worst
-2x merci
-blokjes kaas
+magnum 231
+toast met worst 150
+2x merci 150
+blokjes kaas 100
+lof 10
+zwitserse mix 130
+cordon bleu 250
+magnum 231
 
 journal:
 
@@ -194,16 +198,16 @@ started over in kicad as learning process, better design of power distribution
 
 lots of talking with mom, she's doing well
 
+too much food, in situations like this: remove the ice cream and the chocolates
+
 ## saturday
 
-wake up:
-fitify:
-phone:
-bike:
-journal:
-smoking:
-sleep:
-slot 1:
+wake up: 9:40
+fitify: no
+phone: meh
+smoking: yes
+sleep: quite good!
+slot 1: -
 slot 2:
 slot 3:
 slot 4:
@@ -214,6 +218,10 @@ work:
 coolest:
 frustration:
 food:
+croissant 295
+goodoo 6x 420
+
+journal:
 
 ## sunday
 
