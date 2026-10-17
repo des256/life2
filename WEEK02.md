@@ -217,11 +217,18 @@ friends:
 work:
 coolest:
 frustration:
-food:
+food: 1743
 croissant 295
-goodoo 6x 420
+6x goodoo 420
+pokebowl zalm 408
+maaltijdsalade zalm 490
+yoghurt 130
 
 journal:
+
+mostly kicad, all parts are finally on the footprint, still a few bugs and wires to hunt down
+
+it's cold outside
 
 ## sunday
 
