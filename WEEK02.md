@@ -208,9 +208,9 @@ phone: meh
 smoking: yes
 sleep: quite good!
 slot 1: -
-slot 2:
-slot 3:
-slot 4:
+slot 2: kicad
+slot 3: kicad
+slot 4: kicad
 medical:
 mental:
 friends:
