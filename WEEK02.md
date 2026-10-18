@@ -217,12 +217,12 @@ friends:
 work:
 coolest:
 frustration:
-food: 1743
+food: 2133
 croissant 295
 6x goodoo 420
 pokebowl zalm 408
 maaltijdsalade zalm 490
-yoghurt 130
+4x yoghurt 520
 
 journal:
 
@@ -232,13 +232,11 @@ it's cold outside
 
 ## sunday
 
-wake up:
-fitify:
-phone:
-bike:
-journal:
-smoking:
-sleep:
+wake up: 8:20
+fitify: no
+phone: meh
+smoking: yes
+sleep: was ok
 slot 1:
 slot 2:
 slot 3:
@@ -250,3 +248,7 @@ work:
 coolest:
 frustration:
 food:
+croissant 295
+6x goodoo 420
+
+journal:
