@@ -247,8 +247,15 @@ friends:
 work:
 coolest:
 frustration:
-food:
+food: 2451
 croissant 295
 6x goodoo 420
+pokebowl zalm 408
+kwark 535
+goulashsoep 160
+sandwich boerengezond 325
+2x haribo 308
 
 journal:
+
+empty day, thinking about whether raised with conditional love is a realistic model
