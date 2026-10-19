@@ -247,7 +247,7 @@ friends:
 work:
 coolest:
 frustration:
-food: 2451
+food: 2841
 croissant 295
 6x goodoo 420
 pokebowl zalm 408
@@ -255,7 +255,16 @@ kwark 535
 goulashsoep 160
 sandwich boerengezond 325
 2x haribo 308
+3x yoghurt 390
 
 journal:
 
 empty day, thinking about whether raised with conditional love is a realistic model
+
+eating all yogurts in the end is not a good idea
+
+anti-snoring mouthpiece doesn't work, or at least I had a hard time keeping it in my mouth and then put it away in the end
+
+an idea for exercise to work is to take a short walk before exercising to warm up my back, that either means getting dressed first, or wearing training pants, but taking the housekey with me
+
+next week: kicad
