@@ -30,8 +30,21 @@ friends:
 work:
 coolest:
 frustration:
-food:
+food: 1942
+2x gebakken ei 220
+hamreepjes 149
+tomaat 20
+komkommer 10
+pokebowl zalm 408
+2x yoghurt 260
+gerookte zalm 207
+kipblokjes 333
+wokgroente 75
+2x yoghurt 260
+
 journal:
+
+tomorrow: spread dad's ashes
 
 ## tuesday
 
