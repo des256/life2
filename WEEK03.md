@@ -21,9 +21,9 @@ phone: meh, still went to
 smoking: yes
 sleep: meh
 slot 1: kicad
-slot 2:
-slot 3:
-slot 4:
+slot 2: kicad
+slot 3: kicad
+slot 4: claude chat about thalamus simulations and fundamental physics
 medical:
 mental:
 friends:
@@ -44,7 +44,7 @@ wokgroente 75
 
 journal:
 
-tomorrow: spread dad's ashes
+tomorrow: scatter dad's ashes
 
 ## tuesday
 
@@ -53,7 +53,7 @@ fitify: no
 phone: meh at night, but didn't touch in the morning
 smoking: yes
 sleep: ok
-slot 1: spread dad's ashes
+slot 1: scatter dad's ashes
 slot 2:
 slot 3:
 slot 4:
@@ -63,11 +63,20 @@ friends:
 work:
 coolest:
 frustration:
-food:
+food: 2754
 almhof roomyoghurt 775
 8x regenboog ijsjes 256
+twaalfuurtje 650
+4x merci 300
+stukjes worst 150
+bloemkool 30
+aardappels 166
+blinde vink 167
+2x yoghurt 260
 
 journal:
+
+today scattered dad's ashes, it didn't really do much for me but mom had a hard time, we went to grab a coffee afterwards and talked about the olden days
 
 ## wednesday
 
