@@ -48,12 +48,12 @@ tomorrow: spread dad's ashes
 
 ## tuesday
 
-wake up:
-fitify:
-phone:
-smoking:
-sleep:
-slot 1:
+wake up: 7:04
+fitify: no
+phone: meh at night, but didn't touch in the morning
+smoking: yes
+sleep: ok
+slot 1: spread dad's ashes
 slot 2:
 slot 3:
 slot 4:
@@ -64,6 +64,8 @@ work:
 coolest:
 frustration:
 food:
+almhof roomyoghurt 775
+
 journal:
 
 ## wednesday
