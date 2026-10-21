@@ -80,11 +80,11 @@ today scattered dad's ashes, it didn't really do much for me but mom had a hard 
 
 ## wednesday
 
-wake up:
-fitify:
-phone:
-smoking:
-sleep:
+wake up: 7:14
+fitify: no
+phone: meh
+smoking: yes
+sleep: ok
 slot 1:
 slot 2:
 slot 3:
@@ -96,6 +96,13 @@ work:
 coolest:
 frustration:
 food:
+2x gebakken ei 220 (2x110)
+hamreepjes 149
+tomaat 20
+komkommer 10
+kwark 535
+panini ham kaas 408
+
 journal:
 
 ## thursday
