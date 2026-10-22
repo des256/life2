@@ -95,24 +95,36 @@ friends:
 work:
 coolest:
 frustration:
-food:
+
+food: 2080
 2x gebakken ei 220 (2x110)
 hamreepjes 149
 tomaat 20
 komkommer 10
 kwark 535
 panini ham kaas 408
+kipblokjes 333 (3x111)
+wokgroente 75
+3x bier 330
 
 journal:
 
+food was good, except maybe the beer
+
+long conversation with Chris, who seems to be pushing pencils towards Thalamus, I need to make a rock solid presentation for Ben to make sure this problem gets quenched
+
+There was a performance with Julius in Fabrique des Lumieres, impressive to see fractals projected on every wall
+
+tomorrow: presentation for Ben, kicad
+
 ## thursday
 
-wake up:
-fitify:
-phone:
-smoking:
-sleep:
-slot 1:
+wake up: 9:14
+fitify: no
+phone: meh
+smoking: yes
+sleep: felt ok
+slot 1: presentation
 slot 2:
 slot 3:
 slot 4:
@@ -123,6 +135,8 @@ work:
 coolest:
 frustration:
 food:
+kwark 535
+
 journal:
 
 ## friday
