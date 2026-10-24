@@ -125,27 +125,33 @@ phone: meh
 smoking: yes
 sleep: felt ok
 slot 1: presentation
-slot 2:
-slot 3:
-slot 4:
+slot 2: presentation
+slot 3: -
+slot 4: -
 medical:
 mental:
 friends:
 work:
 coolest:
 frustration:
-food:
+food: 1823
 kwark 535
+sushi 360
+4x yoghurt 520 (4x130)
+kipblokjes 333 (3x111)
+wokgroente 75
 
 journal:
 
+bit of an off day, food was good, started the presentation for Ben, still requires some work
+
 ## friday
 
-wake up:
-fitify:
-phone:
-smoking:
-sleep:
+wake up: 7:40
+fitify: no
+phone: meh
+smoking: yes
+sleep: good
 slot 1:
 slot 2:
 slot 3:
@@ -156,16 +162,26 @@ friends:
 work:
 coolest:
 frustration:
-food:
+food: 2242
+2x gebakken ei 220 (2x110)
+hamreepjes 149
+tomaat 20
+komkommer 10
+pokebowl zalm 570
+kwark 535
+kipblokjes 333 (3x111)
+wokgroente 75
+3x bier 330
+
 journal:
 
 ## saturday
 
-wake up:
-fitify:
-phone:
-smoking:
-sleep:
+wake up: 9:15
+fitify: no
+phone: meh
+smoking: yes
+sleep: quite ok
 slot 1:
 slot 2:
 slot 3:
@@ -177,7 +193,10 @@ work:
 coolest:
 frustration:
 food:
+
 journal:
+
+bouts of frustration over how Nile doesn't listen, how Yue doesn't listen and how Chris tries to control things towards a very conservative place; Monday is the call with Ben, so I'll punch in that direction as hard as I can, but I'm going to have to figure out what some alternatives are...
 
 ## sunday
 
