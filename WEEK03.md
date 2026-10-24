@@ -193,6 +193,10 @@ work:
 coolest:
 frustration:
 food:
+croissant 295
+kwark 535
+gerookte zalm 207
+2x yoghurt 260
 
 journal:
 
